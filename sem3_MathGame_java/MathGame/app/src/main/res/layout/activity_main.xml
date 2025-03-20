@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Math Game"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp"/>
+
+
+    <Button
+        android:id="@+id/buttonPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PLAY"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+
+    <Button
+        android:id="@+id/buttonRanking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GAME RANKING"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+
+    <Button
+        android:id="@+id/buttonRecord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YOUR RECORD"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+
+    <Button
+        android:id="@+id/buttonClose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CLOSE"
+        android:textSize="18sp"/>
+</LinearLayout>
+
+
+
+
+
+
+
